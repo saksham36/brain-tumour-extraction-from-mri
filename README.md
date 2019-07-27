@@ -1,0 +1,2 @@
+# brain-tumour-extraction-from-mri
+Using the 3061 T1 contrasted images from Cheng Jun's dataset, a one click program was made to clean and identify the tumor regions of the brain. Processing techniques such as noise reduction, artifact removal and thresholding was used. The entire program was written in MATLAB. Completed for partial fulfilment of the course *Digital Image Processing* in BITS Pilani.
